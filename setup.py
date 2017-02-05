@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+from codecs import open
+
 from setuptools import setup
 
 # version_tuple = __import__('xadmin').VERSION
